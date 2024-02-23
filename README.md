@@ -1,6 +1,8 @@
 
 # Telangana State Tourism Analysis
 
+Live Link:https://telanganatourismanalysis.streamlit.app
+
 The project aims to offer an in-depth examination of the tourism landscape within Telangana State, shedding light on its various facets and intricacies. Through meticulous analysis, the project seeks to identify both the top-performing and bottom-performing districts based on visitor statistics and Compound Annual Growth Rate (CAGR).
 
 By leveraging robust data analysis techniques, we will delve into the visitor data spanning across different districts of Telangana State. Through this process, we aim to discern patterns, trends, and insights that characterize the tourism industry within the state. Our analysis will not only focus on the sheer number of visitors but also consider the growth trajectory represented by the CAGR metric.
